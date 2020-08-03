@@ -1,2 +1,2 @@
-# pages-example
-pages-example
+# alanyuchen.github.io
+url: https://alanyuchen.github.io
