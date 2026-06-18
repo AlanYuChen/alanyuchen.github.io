@@ -1,4 +1,4 @@
-var HTTP_PROXY = "yuchenmac.local:1818"
+var HTTP_PROXY = "192.168.1.54:1818"
 var SOCKs_PROXY = "localhost:8080"
 
 /**
